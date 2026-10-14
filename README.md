@@ -17,7 +17,7 @@
 
 ## HOW?
 
-0. [C⃞L⃞i⃝c⃞K⃝](https://iiviigames.github.io/fear-and-hunger-webapp/)
+0. [C⃞L⃞i⃝c⃞K⃝](https://iiviigames.github.io/fnh-pwa-emtfr-luv.IIVII)
 1. 𐘟𐘴𐙫𐙫𐘀 ↁ𝔸 𝕊𐝍𝔸𐝥𝔼 <kbd>𝔹𝕌𝕋𝕋𝕆ℕ</kbd>
 0. 𐘟𐝍𐙐𐙐𐝂𐙙 <u>𝔸ↁↁ Ⅱ H🝩𝕄𐙙</u>
 
@@ -25,4 +25,4 @@ E⃝N⃝J⃝O⃝Y⃝ F⃝U⃝C⃝K⃝I⃝N⃝G⃝ C⃝H⃝I⃝L⃝L⃝I⃝N⃝
 
 - - - - - 
 
-<big><div align="center">♡ ⅡⅦ ⛧ ⟁ 𓏴 ▣ ◎</div></big> 
+<big><div style="background-color: #fefffd; color: #2c2c2c; margin:2vw; padding: 10PX;" align="center">♡ ⅡⅦ ⛧ ⟁ 𓏴 ▣ ◎</div></big> 
